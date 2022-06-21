@@ -1,0 +1,10 @@
+div {
+    width: 1920px;
+    height: 6970px;
+}
+.background1 {
+    background-image: url(./img_page1/bg_photo1.png);
+    width: 1920px;
+    height: 1024px;
+    background-color: rgba(17, 17, 17, 0.7);
+}
