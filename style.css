@@ -3,10 +3,28 @@ body {
     height: 6970px;
 }
 .background1 {
+    position: relative;
     background-image: url(./img_page1/bg_photo1.png);
     width: 1920px;
     height: 1024px;
     background-color: rgba(17, 17, 17, 0.7);
+}
+.basket {
+    position: absolute;
+    background-image: url(./img_page1/icon_cart.png);
+    right: 380px;
+    top: 75px;
+    width: 18px;
+    height: 24px;
+
+}
+.search {
+    position: absolute;
+    background-image: url(./img_page1/icon_search.png);
+    right: 330px;
+    top: 75px;
+    width: 24px;
+    height: 24px;
 }
 ul {
     list-style: none;
