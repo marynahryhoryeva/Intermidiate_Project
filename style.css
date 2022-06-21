@@ -29,8 +29,9 @@ a {
     color: #c7b299;
 }
 .content {
+    position: relative;
     color: #ffffff;
-    padding-left: 35px;
+    padding-left: 20px;
     padding-top: 220px;
     text-align: center;
 }
@@ -54,4 +55,22 @@ p {
     font-size: 16px;
     line-height: 24px;
     font-weight: 300;
+}
+.slider-left {
+    position: absolute;
+    left: 150px;
+    top: 350px;
+    background-image: url(./img_page1/left.png);
+    width: 40px;
+    height: 73px;
+    opacity: 0.5;
+
+}
+.slider-right {
+    position: absolute;
+    right: 150px;
+    top: 350px;
+    background-image: url(./img_page1/right.png);
+    width: 40px;
+    height: 73px;
 }
