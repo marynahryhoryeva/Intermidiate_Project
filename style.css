@@ -9,6 +9,25 @@ body {
     height: 1024px;
     background-color: rgba(17, 17, 17, 0.7);
 }
+.logo {
+    position: absolute;
+    background-image: url(./img_page1/logo.png);
+    width: 64px;
+    height: 56px;
+    top: 65px;
+    left: 350px;
+}
+.logo_name {
+    position: absolute;
+    font-family: 'Raleway';
+    font-size: 34px;
+    line-height: 1.2;
+    font-weight: 400;
+    letter-spacing: -0.04em;
+    color: #ffffff;
+    top: 70px;
+    left: 410px;
+}
 .basket {
     position: absolute;
     background-image: url(./img_page1/icon_cart.png);
