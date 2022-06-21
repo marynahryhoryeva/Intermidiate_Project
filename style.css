@@ -8,3 +8,6 @@ div {
     height: 1024px;
     background-color: rgba(17, 17, 17, 0.7);
 }
+.menu {
+    font-family: 'Montserrat', sans-serif;
+}
