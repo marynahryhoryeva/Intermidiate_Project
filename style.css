@@ -74,3 +74,23 @@ p {
     width: 40px;
     height: 73px;
 }
+.button {
+    position: absolute;
+    left: 880px;
+    top: 480px;
+    width: 170px;
+    height: 53px;
+    background-color: #998675;
+    box-shadow: inset 0px -3px 0px 0px #736357;
+    border-radius: 3px;
+    text-align: center;
+}
+#get_started {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    line-height: 23px;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: #ffffff;
+    box-sizing: border-box;
+}
