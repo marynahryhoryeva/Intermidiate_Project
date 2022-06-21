@@ -1,4 +1,4 @@
-div {
+body {
     width: 1920px;
     height: 6970px;
 }
@@ -28,3 +28,10 @@ a {
 .menu {
     color: #c7b299;
 }
+.content {
+    color: #ffffff;
+    padding-left: 350px;
+    padding-top: 400px;
+    text-align: center;
+}
+h3
