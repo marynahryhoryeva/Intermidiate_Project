@@ -198,3 +198,85 @@ p {
     top: 870px;
     opacity: 0.5;
 }
+
+.conteiner {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    width: 1200px;
+    height: 750px;
+    margin-left: 350px;
+}
+
+.conteiner > div {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 300;
+    color: #8c8c8c;
+}
+
+h4 {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-size: 22px;
+    line-height: 1.2;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #555555;
+}
+
+.h4_click {
+    color: #c7b299;
+}
+
+.pencil {
+    background-image: url(./img_page1/icon_pencil.png);
+    width: 49px;
+    height: 49px;
+    margin-left: 130px;
+    color: #555555;
+}
+
+.book {
+    background-image: url(./img_page1/icon_book.png);
+    width: 44px;
+    height: 40px;
+    margin-left: 130px;
+    color: #c7b299;
+}
+
+.custom {
+    background-image: url(./img_page1/icon_custom.png);
+    width: 44px;
+    height: 44px;
+    margin-left: 120px;
+    color: #555555;
+}
+
+.bag {
+    background-image: url(./img_page1/icon_bag.png);
+    width: 52px;
+    height: 36px;
+    margin-left: 120px;
+    color: #555555;
+}
+
+.line {
+    background-image: url(./img_page1/line.png);
+    width: 70px;
+    height: 3px;
+    margin-left: 110px;
+    background-color: #f1eee9;
+}
+
+.line_click {
+    background-image: url(./img_page1/line_click.png);
+    width: 70px;
+    height: 3px;
+    margin-left: 110px;
+    background-color: #c7b299;
+}
+
