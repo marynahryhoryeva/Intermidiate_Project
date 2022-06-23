@@ -2,6 +2,7 @@ body {
     width: 1920px;
     height: 6970px;
 }
+
 .background1 {
     position: relative;
     background-image: url(./img_page1/bg_photo1.png);
@@ -9,6 +10,7 @@ body {
     height: 1024px;
     background-color: rgba(17, 17, 17, 0.7);
 }
+
 .logo {
     position: absolute;
     background-image: url(./img_page1/logo.png);
@@ -17,6 +19,7 @@ body {
     top: 65px;
     left: 350px;
 }
+
 .logo_name {
     position: absolute;
     font-family: 'Raleway';
@@ -28,6 +31,7 @@ body {
     top: 70px;
     left: 410px;
 }
+
 .basket {
     position: absolute;
     background-image: url(./img_page1/icon_cart.png);
@@ -37,6 +41,7 @@ body {
     height: 24px;
 
 }
+
 .search {
     position: absolute;
     background-image: url(./img_page1/icon_search.png);
@@ -45,15 +50,18 @@ body {
     width: 24px;
     height: 24px;
 }
+
 ul {
     list-style: none;
     padding-left: 770px;
     padding-top: 80px;
 }
+
 li {
     display: inline;
     padding-right: 30px;
 }
+
 a {
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
@@ -62,9 +70,11 @@ a {
     font-weight: 300;
     color: #ffffff;
 }
+
 .menu {
     color: #c7b299;
 }
+
 .content {
     position: relative;
     color: #ffffff;
@@ -72,6 +82,7 @@ a {
     padding-top: 220px;
     text-align: center;
 }
+
 h1 {
     margin-top: 3px;
     margin-bottom: 6px;
@@ -80,6 +91,7 @@ h1 {
     line-height: 1.2;
     font-weight: 800;
 }
+
 h3 {
     margin-bottom: 10px;
     font-family: 'Raleway', sans-serif;
@@ -87,12 +99,14 @@ h3 {
     line-height: 1.2;
     font-weight: 500;
 }
+
 p {
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     line-height: 24px;
     font-weight: 300;
 }
+
 .slider-left {
     position: absolute;
     left: 150px;
@@ -103,6 +117,7 @@ p {
     opacity: 0.5;
 
 }
+
 .slider-right {
     position: absolute;
     right: 150px;
@@ -111,6 +126,7 @@ p {
     width: 40px;
     height: 73px;
 }
+
 .button {
     position: absolute;
     left: 880px;
@@ -122,6 +138,7 @@ p {
     border-radius: 3px;
     text-align: center;
 }
+
 #get_started {
     font-family: 'Raleway', sans-serif;
     font-size: 14px;
@@ -130,4 +147,54 @@ p {
     text-transform: uppercase;
     color: #ffffff;
     box-sizing: border-box;
+}
+
+.radio1 {
+    position: absolute;
+    background-image: url(./img_page1/icon_radio.png);
+    width: 11px;
+    height: 11px;
+    left: 920px;
+    top: 870px;
+    opacity: 0.5;
+}
+
+.radio2 {
+    position: absolute;
+    background-image: url(./img_page1/icon_radio2.png);
+    width: 15px;
+    height: 15px;
+    background-color: rgba(255, 255, 255, 0.0);
+    left: 937px;
+    top: 868px;
+}
+
+.radio3 {
+    position: absolute;
+    background-image: url(./img_page1/icon_radio.png);
+    width: 11px;
+    height: 11px;
+    left: 958px;
+    top: 870px;
+    opacity: 0.5;
+}
+
+.radio4 {
+    position: absolute;
+    background-image: url(./img_page1/icon_radio.png);
+    width: 11px;
+    height: 11px;
+    left: 976px;
+    top: 870px;
+    opacity: 0.5;
+}
+
+.radio5 {
+    position: absolute;
+    background-image: url(./img_page1/icon_radio.png);
+    width: 11px;
+    height: 11px;
+    left: 994px;
+    top: 870px;
+    opacity: 0.5;
 }
