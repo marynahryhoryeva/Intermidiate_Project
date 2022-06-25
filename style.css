@@ -287,3 +287,22 @@ h4 {
     background-color: #fbfaf8;
 }
 
+.header2 {
+    font-family: 'Raleway',sans-serif;
+    text-align: center;
+    padding-top: 70px;
+    font-size: 30px;
+    line-height: 1.2;
+    font-weight: 600;
+    color: #555555;
+}
+
+.page2 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 300;
+    color: #8c8c8c;
+}
+
