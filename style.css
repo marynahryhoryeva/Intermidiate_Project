@@ -377,3 +377,25 @@ h4 {
     margin-top: 0;
     color: #615855;
 }
+
+.button2 {
+    position: absolute;
+    left: 1400px;
+    top: 40px;
+    width: 170px;
+    height: 50px;
+    background-color: #998675;
+    box-shadow: inset 0px -3px 0px 0px #736357;
+    border-radius: 3px;
+    text-align: center;
+}
+
+#purchase_now {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    line-height: 23px;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: #ffffff;
+    box-sizing: border-box;
+}
