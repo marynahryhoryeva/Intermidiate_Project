@@ -399,3 +399,26 @@ h4 {
     color: #ffffff;
     box-sizing: border-box;
 }
+
+.background3 {
+
+}
+
+.header3 {
+    font-family: 'Raleway', serif;
+    text-align: center;
+    padding-top: 190px;
+    font-size: 30px;
+    line-height: 1.2;
+    font-weight: 600;
+    color: #555555;
+}
+
+.page3 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 300;
+    color: #8c8c8c;
+}
