@@ -306,3 +306,37 @@ h4 {
     color: #8c8c8c;
 }
 
+.wrapper {
+    position: relative;
+}
+
+.browser_left {
+    background-image: url(./img_page2/browser_left.png);
+    position: relative;
+    z-index: 10;
+    width: 770px;
+    height: 400px;
+    left: 370px;
+    top: 100px;
+}
+
+.browser_right {
+    background-image: url(./img_page2/browser_right.png);
+    position: absolute;
+    z-index: 11;
+    width: 770px;
+    height: 400px;
+    left: 830px;
+    top: 100px;
+}
+
+.browser_center {
+    background-image: url(./img_page2/browser_center.png);
+    position: absolute;
+    z-index: 12;
+    width: 770px;
+    height: 482px;
+    left: 600px;
+    top: 18px;
+}
+
