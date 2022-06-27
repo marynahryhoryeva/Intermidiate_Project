@@ -454,3 +454,145 @@ h4 {
     background-color: #998675;
     border-radius: 3px;
 }
+
+.conteiner2 {
+    display: flex;
+    justify-content: space-between;
+    width: 1170px;
+    height: 950px;
+    margin-top: 50px;
+    margin-left: 410px;
+}
+
+.conteiner2 > div {
+    width: 370px;
+    height: 340px;
+    left: 370px;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 300;
+    color: #d1d1d1;
+}
+
+
+.orign {
+    position: absolute;
+    left: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    line-height: 1.2;
+    font-weight: 500;
+    color: #c7b299;
+}
+
+.orign_click {
+    position: absolute;
+    left: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    line-height: 1.2;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.text {
+    position: absolute;
+    width: 370px;
+    height: 100px;
+    padding-top: 0;
+    background-color: #fbfaf8; 
+}
+
+.text_click {
+    position: absolute;
+    width: 370px;
+    height: 100px;
+    padding-top: 0;
+    background-color: #362f2d;
+}
+
+.flex {
+    position: absolute;
+    left: 30px;
+    top: 35px;
+}
+
+
+.phone {
+    position: relative;
+    background-image: url(./img_page3/bg_photo_1.png);
+    width: 370px;
+    height: 237px;
+    background-color: #8c8c8c;
+}
+
+.arrow1 {
+    display: inline;
+    position: absolute;
+    background-image: url(./img_page3/arrow_1.png);
+    width: 30px;
+    height: 10px;
+    top: 2768px;
+    left: 430px;   
+}
+
+.dedicated {
+    position: relative;
+    background-image: url(./img_page3/bg_photo_2.png);
+    width: 370px;
+    height: 237px;
+    background-color: rgba(17, 17, 17, 0.7);
+}
+
+.graphic {
+    position: absolute;
+    left: 30px;
+    top: 35px;
+    color: #c7b299;
+}
+
+.arrow_brown {
+    display: inline;
+    position: absolute;
+    background-image: url(./img_page3/arrow_2.png);
+    width: 30px;
+    height: 10px;
+    top: 2769px;
+    left: 830px;
+}
+
+.link {
+    position: absolute;
+    background-image: url(./img_page3/link_10955.png);
+    width: 26px;
+    height: 26px;
+    left: 955px;
+    top: 2640px;
+}
+
+.lupa1 {
+    position: absolute;
+    background-image: url(./img_page3/lupa_1.png);
+    width: 26px;
+    height: 25px;
+    top: 2640px;
+    left: 1010px;
+}
+
+.notebook {
+    background-image: url(./img_page3/bg_photo_3.png);
+    width: 370px;
+    height: 237px;
+    background-color: #8c8c8c;
+}
+
+.arrow2 {
+    display: inline;
+    position: absolute;
+    background-image: url(./img_page3/arrow_1.png);
+    width: 30px;
+    height: 10px;
+    top: 2769px;
+    left: 1230px;   
+}
