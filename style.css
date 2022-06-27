@@ -691,3 +691,62 @@ h4 {
     text-transform: uppercase;
     color: #ffffff;
 }
+
+.background4 {
+    position: relative;
+    margin-top: 100px;
+    background-image: url(./img_page4/bg_photo_4page.png);
+    width: 1920px;
+    height: 705px;
+    background-color: rgba(17, 17, 17, 0.5);
+}
+
+.play {
+    position: absolute;
+    background-image: url(./img_page4/icon_play.png);
+    width: 70px;
+    height: 70px;
+    top: 215px;
+    left: 935px;
+}
+
+.shadow {
+    position: absolute;
+    background-image: url(./img_page4/circle_10994.png);
+    width: 100px;
+    height: 100px;
+    top: 200px;
+    left: 920px;
+    opacity: 0.2;
+    background-color: #000000;
+    border-radius: 50%;
+}
+
+.time {
+    font-family: 'Montserrat';
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    margin-top: 20px;
+    padding-left: 950px;
+    color: #c7b299;
+}
+
+.header4 {
+    font-family: 'Raleway', serif;
+    text-align: center;
+    padding-top: 350px;
+    font-size: 30px;
+    line-height: 1.2;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.page4 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 300;
+    color: #ffffff;
+}
