@@ -400,10 +400,6 @@ h4 {
     box-sizing: border-box;
 }
 
-.background3 {
-
-}
-
 .header3 {
     font-family: 'Raleway', serif;
     text-align: center;
@@ -421,4 +417,40 @@ h4 {
     line-height: 28px;
     font-weight: 300;
     color: #8c8c8c;
+}
+
+.menu2 {
+    list-style: none;
+    padding-left: 700px;
+    padding-top: 30px;
+}
+
+.button3 {
+    display: inline;
+    width: 120px;
+    height: 32px;
+    margin-right: 6px;
+    padding: 6px 21px 6px 21px;
+    background-color: rgba(17, 17, 17, 0.0);
+    border: 1px solid #ebebeb;
+    border-radius: 3px;
+}
+
+.cells {
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 300;
+    color: #8c8c8c;
+}
+
+.button4 {
+    display: inline;
+    width: 70px;
+    height: 32px;
+    margin-right: 6px;
+    padding: 6px 25px 6px 25px;
+    background-color: #998675;
+    border-radius: 3px;
 }
