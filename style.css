@@ -750,3 +750,100 @@ h4 {
     font-weight: 300;
     color: #ffffff;
 }
+
+.background5 {
+    position: relative;
+    width: 1920px;
+    height: 695px;
+    background-color: #fbfaf8;
+}
+
+.conteiner4 {
+    display: flex;
+    justify-content: center;
+    width: 1100px;
+    height: 616px;
+    padding-top: 78px;
+    margin-left: 380px;
+}
+
+.iphone {
+    background-image: url(./img_page5/iphone_in_hand.png);
+    width: 423px;
+    height: 616px;
+    margin-right: 40px;
+}
+
+.mobile_devices {
+    width: 650px;
+    padding-top: 70px;
+}
+
+.mobile {
+    font-family: 'Raleway', serif;
+    font-size: 30px;
+    line-height: 1.2;
+    font-weight: 600;
+    color: #555555;
+}
+
+.information {
+    font-family: 'Montserrat', serif;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 300;
+    margin-bottom: 35px;
+    color: #8c8c8c;
+}
+
+.pointer1 {
+    position: absolute;
+    display: inline-block;
+    background-image: url(./img_page5/pointer.png);
+    width: 21px;
+    height: 21px;
+    top: 423px;
+    left: 885px;  
+}
+
+.pointer2 {
+    position: absolute;
+    display: inline-block;
+    background-image: url(./img_page5/pointer.png);
+    width: 21px;
+    height: 21px;
+    top: 460px;
+    left: 885px;  
+}
+
+.pointer3 {
+    position: absolute;
+    display: inline-block;
+    background-image: url(./img_page5/pointer.png);
+    width: 21px;
+    height: 21px;
+    top: 497px;
+    left: 885px;  
+}
+
+.pointer4 {
+    position: absolute;
+    display: inline-block;
+    background-image: url(./img_page5/pointer.png);
+    width: 21px;
+    height: 21px;
+    top: 534px;
+    left: 885px;  
+}
+
+.list {
+    font-family: 'Montserrat', serif;
+    font-size: 16px;
+    line-height: 32px;
+    font-weight: 300;
+    padding-left: 100px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #8c8c8c;
+}
+
