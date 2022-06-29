@@ -960,20 +960,35 @@ h4 {
     display: flex;
     justify-content: space-between;
     width: 1170px;
-    height: 350px;
+    height: 395px;
     margin-top: 40px;
     margin-left: 410px;
 }
     
 .conteiner6 > div {
     width: 370px;
-    height: 340px;
+    height: 395px;
     left: 370px;
+    background-color: rgba(119, 119, 119, 0.0);
+    border: 1px solid #f8f8f8;
     font-family: 'Montserrat';
     font-size: 14px;
     line-height: 22px;
     font-weight: 300;
     color: #8c8c8c;
+}
+
+.conteiner6 > div .brown_page6 {
+    background-color: #362f2d;
+    width: 370px;
+    height: 395px;
+    left: 370px;
+    border: 1px solid #f8f8f8;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 300;
+    color: #ffffff;
 }
 
 .leg {
@@ -988,17 +1003,19 @@ h4 {
     position: absolute;
     width: 50px;
     height: 35px;
-    top: 10px;
-    left: 10px;
+    top: 5410px;
+    left: 430px;
     background-color: #363636;
     border-radius: 3px 3px 0px 0px;
 }
 
 .date {
     font-family: 'Montserrat', sans-serif;
+    text-align: center;
     font-size: 24px;
     line-height: 20px;
     font-weight: 300;
+    margin-top: 9px;
     color: #ffffff;
 }
 
@@ -1006,14 +1023,142 @@ h4 {
     position: absolute;
     width: 50px;
     height: 25px;
+    top: 5445px;
+    left: 430px;
     background-color: #252525;
     border-radius: 0px 0px 3px 3px;
 }
 
 .mounth {
     font-family: 'Roboto', sans-serif;
+    text-align: center;
     font-size: 12px;
     line-height: 20px;
     font-weight: 400;
+    margin-top: 3px;
     color: #ffffff;
 }
+
+.circle1 {
+    position: absolute;
+    background-image: url(./img_page6/01_11653.png);
+    width: 11px;
+    height: 11px;
+    left: 545px;
+    top: 5577px;
+    opacity: 0.3;
+}
+
+.circle2 {
+    position: absolute;
+    background-image: url(./img_page6/02_11654.png);
+    width: 15px;
+    height: 15px;
+    left: 567px;
+    top: 5575px;
+    background-color: rgba(255, 255, 255, 0.0);
+    
+    
+}
+
+.circle3 {
+    position: absolute;
+    background-image: url(./img_page6/01_11653.png);
+    width: 11px;
+    height: 11px;
+    left: 587px;
+    top: 5577px;
+    opacity: 0.3;
+}
+
+.circle4 {
+    position: absolute;
+    background-image: url(./img_page6/01_11653.png);
+    width: 11px;
+    height: 11px;
+    left: 607px;
+    top: 5577px;
+    opacity: 0.3;
+}
+
+.circle5 {
+    position: absolute;
+    background-image: url(./img_page6/01_11653.png);
+    width: 11px;
+    height: 11px;
+    left: 627px;
+    top: 5577px;
+    opacity: 0.3;
+}
+
+.text_page6 {
+    position: absolute;
+    
+}
+
+.lorem {
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+    font-size: 20px;
+    line-height: 1.2;
+    font-weight: 500;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    color: #555555;
+}
+
+.small_lorem {
+    margin-top: 8px;
+    padding-left: 20px;
+   
+}
+
+.read_more {
+    position: absolute;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 300;
+    margin-top: 0px;
+    padding-left: 20px;
+    color: #c7b299;
+}
+
+.arrow_page6 {
+    position: absolute;
+    background-image: url(./img_page6/arrow_right.png);
+    width: 5px;
+    height: 8px;
+    top: 135px;
+    left: 107px;
+}
+
+.dedicated_page6 {
+    position: relative;
+    background-image: url(./img_page6/bg_photo_26.png);
+    width: 370px;
+    height: 220px;
+    background-color: rgba(17, 17, 17, 0.7);
+}
+
+.clr_date2 {
+    position: absolute;
+    width: 50px;
+    height: 35px;
+    top: 5410px;
+    left: 830px;
+    background-color: #c7b299;
+    border-radius: 3px 3px 0px 0px;
+}
+
+.clr_mounth2 {
+    position: absolute;
+    width: 50px;
+    height: 25px;
+    top: 5445px;
+    left: 830px;
+    background-color: #a48d72;
+    border-radius: 0px 0px 3px 3px;
+}
+
