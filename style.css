@@ -1234,3 +1234,45 @@ div .second_column {
     height: 22px;
     left: 1270px;
 }
+
+.background7 {
+    background-image: url(./img_page7/bg_photo_page7.png);
+    width: 1920px;
+    height: 489px;
+    margin-top: 80px;
+    background-color: rgba(17, 17, 17, 0.7);
+}
+
+.conteiner7 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1170px;
+    height: 489px;
+    margin-top: 40px;
+    margin-left: 410px;
+}
+
+.conteiner7 > div {
+    width: 210px;
+}
+
+.logo_01 {
+    background-image: url(./img_page7/logo_01.png);
+    height: 127px;
+}
+
+.logo_02 {
+    background-image: url(./img_page7/logo_02.png);
+    height: 210px;
+}
+
+.logo_03 {
+    background-image: url(./img_page7/logo_03.png);
+    height: 130px;
+}
+
+.logo_04 {
+    background-image: url(./img_page7/logo_04.png);
+    height: 164px;
+}
