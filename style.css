@@ -1216,3 +1216,21 @@ div .second_column {
     background-color: #252525;
     border-radius: 0px 0px 3px 3px;
 }
+
+.left_circle {
+    display: inline-block;
+    background-image: url(./img_page6/left.png);
+    width: 22px;
+    height: 22px;
+    margin-top: 40px;
+    margin-left: 968px;
+    margin-right: 5px;
+}
+
+.right_circle {
+    display: inline-block;
+    background-image: url(./img_page6/right.png);
+    width: 22px;
+    height: 22px;
+    left: 1270px;
+}
