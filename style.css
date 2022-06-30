@@ -978,7 +978,7 @@ h4 {
     color: #8c8c8c;
 }
 
-.conteiner6 > div .brown_page6 {
+div .second_column {
     background-color: #362f2d;
     width: 370px;
     height: 395px;
@@ -1162,3 +1162,57 @@ h4 {
     border-radius: 0px 0px 3px 3px;
 }
 
+.lorem_click {
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+    font-size: 20px;
+    line-height: 1.2;
+    font-weight: 500;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    color: #c7b299;
+}
+
+.small_lorem_click {
+    margin-top: 8px;
+    padding-left: 20px;
+    color: #ffffff;
+}
+
+.arrow_click {
+    position: absolute;
+    background-image: url(./img_page6/arrow_right.png);
+    width: 5px;
+    height: 8px;
+    top: 5746px;
+    left: 920px;
+}
+
+.ship {
+    position: relative;
+    background-image: url(./img_page6/bg_photo_36.png);
+    width: 370px;
+    height: 220px;
+    background-color: #777777;
+}
+
+.clr_date3 {
+    position: absolute;
+    width: 50px;
+    height: 35px;
+    top: 5410px;
+    left: 1230px;
+    background-color: #363636;
+    border-radius: 3px 3px 0px 0px;
+}
+
+.clr_mounth3 {
+    position: absolute;
+    width: 50px;
+    height: 25px;
+    top: 5445px;
+    left: 1230px;
+    background-color: #252525;
+    border-radius: 0px 0px 3px 3px;
+}
