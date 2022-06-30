@@ -1057,8 +1057,6 @@ div .second_column {
     left: 567px;
     top: 5575px;
     background-color: rgba(255, 255, 255, 0.0);
-    
-    
 }
 
 .circle3 {
@@ -1092,8 +1090,7 @@ div .second_column {
 }
 
 .text_page6 {
-    position: absolute;
-    
+    position: absolute;   
 }
 
 .lorem {
@@ -1110,8 +1107,7 @@ div .second_column {
 
 .small_lorem {
     margin-top: 8px;
-    padding-left: 20px;
-   
+    padding-left: 20px;  
 }
 
 .read_more {
@@ -1467,4 +1463,10 @@ div .second_column {
     width: 130px;
     height: 98px;
     background-color: #777777;
+}
+
+.fotter_page7 {
+    width: 1920px;
+    height: 111px;
+    background-color: #111111;
 }
