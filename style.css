@@ -1466,7 +1466,72 @@ div .second_column {
 }
 
 .fotter_page7 {
+    position: relative;
     width: 1920px;
     height: 111px;
     background-color: #111111;
+}
+
+.link_menu1 {
+    position: absolute;
+    
+    padding-top: 30px;
+    padding-left: 400px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    line-height: 20px;
+    font-weight: 300;
+    color: #555555;
+}
+
+.orign_menu1 {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.link_menu1 > .orign_menu1:not(:last-child) {
+    border-right: 1px solid #252525;
+    padding: 0 10px;
+}
+
+.link_menu1 > .orign_menu1:last-child {
+    padding-left: 10px;
+}
+
+.waxom_click {
+    color: #959595;
+}
+
+.faq {
+    color: #c7b299;
+}
+
+.link_menu2 {
+    position: absolute;
+    top: 30px;
+    left: 600px;
+    padding-top: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    line-height: 20px;
+    font-weight: 300;
+    color: #555555;
+}
+
+.orign_menu2 {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.link_menu2 > .orign_menu2:not(:last-child) {
+    border-right: 1px solid #252525;
+    padding: 0 10px;
+}
+
+.link_menu2 > .orign_menu2:last-child {
+    padding-left: 10px;
+}
+
+.click2 {
+    color: #959595;
 }
